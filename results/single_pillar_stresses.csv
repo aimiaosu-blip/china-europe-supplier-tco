@@ -1,0 +1,5 @@
+sole_risk_pillar,cost_weight,preferred_supplier
+quality_governance,0.2,SYN-12
+compliance_sustainability,0.2,SYN-07
+service_governance,0.2,SYN-03
+supply_continuity,0.2,SYN-10

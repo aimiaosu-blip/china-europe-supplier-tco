@@ -1,0 +1,4 @@
+priority,probability_china_mean_better,probability_europe_mean_better,probability_tie
+Cost-led,0.001,0.999,0.0
+Balanced,0.0004,0.9996,0.0
+Resilience-led,0.0002,0.9998,0.0
